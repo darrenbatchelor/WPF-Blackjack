@@ -1,2 +1,2 @@
 # WPF-Blackjack
-A Blackjack game in a WPF application
+A Blackjack game hosted in a WPF application
